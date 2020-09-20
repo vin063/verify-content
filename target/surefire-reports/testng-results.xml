@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VerifyContentSuite" duration-ms="12783" started-at="2020-09-19T20:09:05 CDT" finished-at="2020-09-19T20:09:18 CDT">
+    <groups>
+    </groups>
+    <test name="VerifyContenttest" duration-ms="12783" started-at="2020-09-19T20:09:05 CDT" finished-at="2020-09-19T20:09:18 CDT">
+      <class name="com.VerifyContent.testcases.VerifyContent">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.VerifyContent.testcases.VerifyContent@eec5a4a]" name="setup" is-config="true" duration-ms="4829" started-at="2020-09-19T20:09:05 CDT" finished-at="2020-09-19T20:09:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openUrl()[pri:1, instance:com.VerifyContent.testcases.VerifyContent@eec5a4a]" name="openUrl" duration-ms="2053" started-at="2020-09-19T20:09:10 CDT" finished-at="2020-09-19T20:09:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="checkContent()[pri:2, instance:com.VerifyContent.testcases.VerifyContent@eec5a4a]" name="checkContent" duration-ms="5458" started-at="2020-09-19T20:09:12 CDT" finished-at="2020-09-19T20:09:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContent -->
+        <test-method status="PASS" signature="checkInvalidContent()[pri:3, instance:com.VerifyContent.testcases.VerifyContent@eec5a4a]" name="checkInvalidContent" duration-ms="101" started-at="2020-09-19T20:09:17 CDT" finished-at="2020-09-19T20:09:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInvalidContent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.VerifyContent.testcases.VerifyContent@eec5a4a]" name="closeBrowser" is-config="true" duration-ms="294" started-at="2020-09-19T20:09:17 CDT" finished-at="2020-09-19T20:09:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.VerifyContent.testcases.VerifyContent -->
+    </test> <!-- VerifyContenttest -->
+  </suite> <!-- VerifyContentSuite -->
+</testng-results>
